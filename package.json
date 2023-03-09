@@ -1,0 +1,12 @@
+{
+  "name": "interfolio-demo",
+  "scripts": {
+    "cy:open": "npx cypress open"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^12.7.0"
+  }
+}
